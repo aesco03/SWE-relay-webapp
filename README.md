@@ -22,11 +22,11 @@ SWE-project-root/
 │       └── transcription/
 │ 
 ├── public/               ← All image files and artifacts stored here (e.g. .png, .jpg, .svg)
-├── components/           ← Reusable UI components (root level)
+├── components/           ← Reusable UI components
 │   ├── Header.tsx
 │   ├── RequestCard.tsx
 │   └── TranscriptionTool.tsx
-├── lib/                  ← Utility functions & configurations (root level)
+├── lib/                  ← Utility functions & configurations
 │   ├── auth.ts
 │   ├── assemblyai.ts
 │   └── payments.ts
